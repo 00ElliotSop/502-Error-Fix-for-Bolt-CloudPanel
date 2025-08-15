@@ -4,7 +4,7 @@ Use the vite.config.ts file and replace with one in your repository
 
 Replace the below with contents of original vite.config.ts
 
-'''
+ ```
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
@@ -23,4 +23,4 @@ export default defineConfig({
   },
 });
 
-'''
+ ```
